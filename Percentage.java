@@ -1,5 +1,7 @@
+// no header
 import java.util.Scanner;
 public class Percentage{
+  // == tabs!!
 	public static void main(String[] args){
 		Scanner input = new Scanner(System.in);
 		System.out.println("Please enter the following as percentages ");
