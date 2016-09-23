@@ -1,5 +1,7 @@
+// missing header
 import java.util.Scanner;
 public class Tax{
+  // using tabs!!!!
 	public static void main(String[] args){
 		Scanner input = new Scanner(System.in);
 		System.out.print("Please enter the Subtotal and gratuity rate ");
